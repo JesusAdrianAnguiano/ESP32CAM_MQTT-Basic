@@ -53,3 +53,5 @@ Para observar el funcionamiento de este proyecto deberás realizar lo siguiente.
 Podrás observar una cuenta progresiva, la cual envía el prográma base del ESP32CAM. Puedes controlar el led flash del ESP32CAM con el switch del dashboard.
 
 Por: [Hugo Vargas](https://github.com/hugoescalpelo)
+
+Además tambien es un fork de: [Jesús Adrián Anguiano](https://github.com/JesusAdrianAnguiano)
